@@ -11,11 +11,11 @@
 📚 Currently enrolled as a student, I'm soaking in all the knowledge I can while embracing the spirit of lifelong learning. Join me on this journey, and let's make an impact together!
 
 Happy coding! 🚀
-
+<img align = "right" alt = "coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 Skills: HTML / CSS / C/ C++/ Python
 
-- 🌱 I’m currently learning Programming and Designing
 - 🌱 I’m currently learning **Programming, Designing**
+- 💬 Ask me about **Windows, Core JAVA, C/C++, HTML/CSS,  Spring boot, Git, System term, SQL, Linux**
 - 📫 How to reach me **sarfarazhossen9@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfarajhossen&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarajhossen" /> </p>
@@ -24,7 +24,7 @@ Skills: HTML / CSS / C/ C++/ Python
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+<h3 align="left">Connect with me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sarfarajhossen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sarfarajsayed.i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sarfaraj_hossain2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/jvWCpFyY3d)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
