@@ -14,7 +14,15 @@ Happy coding! 🚀
 
 Skills: HTML / CSS / C/ C++/ Python
 
-- 🌱 I’m currently learning Programming and Designing 
+- 🌱 I’m currently learning Programming and Designing
+- 🌱 I’m currently learning **Programming, Designing**
+- 📫 How to reach me **sarfarazhossen9@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfarajhossen&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarajhossen" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfarajhossen" alt="sarfarajhossen" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sarfarajhossen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sarfarajsayed.i/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sarfaraj_hossain2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/jvWCpFyY3d)  
