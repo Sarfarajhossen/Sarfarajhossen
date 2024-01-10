@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarfaraj Hossen Chowdhury</h1>
 <h3 align="center">👋 Hello there! I’m Sarfaraj, a passionate student currently navigating the exciting world of Computer Science & Engineering. My journey in the realm of technology and academia is a continuous learning adventure, and I’m thrilled to share my experiences and projects with you.</h3>
-<a href="https://ibb.co/7j9Mxwp"><img src="https://i.ibb.co/gmnqb5W/programming-Git-Hub-logo-with-mark.png" alt="programming-Git-Hub-logo-with-mark" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a align= "center" href="https://ibb.co/7j9Mxwp"><img src="https://i.ibb.co/gmnqb5W/programming-Git-Hub-logo-with-mark.png" alt="programming-Git-Hub-logo-with-mark" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 
 🚀 As a student, I'm always exploring new ideas, honing my skills, and collaborating on interesting projects. My GitHub repository is a snapshot of this journey, showcasing a mix of personal projects, assignments, and contributions to open-source initiatives. I believe in the power of collaboration and knowledge sharing, and I'm eager to connect with like-minded individuals who share a passion for innovation and creativity.
 
