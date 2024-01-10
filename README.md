@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarfaraj Hossen Chowdhury</h1>
+<h1 align="center">Assalamu-Alaykum!<br/>Hi 👋, I'm Sarfaraj Hossen Chowdhury</h1>
 <h3 align="center">👋 Hello there! I’m Sarfaraj, a passionate student currently navigating the exciting world of Computer Science & Engineering. My journey in the realm of technology and academia is a continuous learning adventure, and I’m thrilled to share my experiences and projects with you.</h3>
 <p align ="center"><a href="https://ibb.co/7j9Mxwp"><img src="https://i.ibb.co/gmnqb5W/programming-Git-Hub-logo-with-mark.png" alt="programming-Git-Hub-logo-with-mark" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /></p>
 
