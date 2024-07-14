@@ -11,7 +11,7 @@
 📚 Currently enrolled as a student, I'm soaking in all the knowledge I can while embracing the spirit of lifelong learning. Join me on this journey, and let's make an impact together!
 
 Happy coding! 🚀
-<img align = "right" alt = "coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+<img align = "right" alt = "coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 Skills: HTML / CSS / C/ C++/ Python
 
 - 🌱 I’m currently learning **Programming, Designing**
