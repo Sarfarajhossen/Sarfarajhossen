@@ -21,11 +21,11 @@ Skills: HTML / CSS / js / SQL / PHP / C/ C++/ Python
 
 <h3 align="left">Connect With Me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarfarajhossen)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarfarajsayed-i)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sarfarajsayed.i/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sarfarajsayed.i/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/jvWCpFyY3d)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarfarajsayed/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarfarajsayed-i/)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -55,27 +55,27 @@ Skills: HTML / CSS / js / SQL / PHP / C/ C++/ Python
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://whatthelogo.com/storage/logos/adobe-xd-270211.png" alt="xd" width="40" height="40"/> </a> </p>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfarajhossen&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarajhossen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarfarajsayed-i&label=Profile%20views&color=0e75b6&style=flat" alt="Sarfarajsayed-i" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfarajhossen" alt="sarfarajhossen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sarfarajsayed-i" alt="Sarfarajsayed-i" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarajhossen&show_icons=true&locale=en&layout=compact" alt="sarfarajhossen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarfarajsayed-i&show_icons=true&locale=en&layout=compact" alt="Sarfarajsayed-i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarajhossen&show_icons=true&locale=en" alt="sarfarajhossen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarfarajsayed-i&show_icons=true&locale=en" alt="Sarfarajsayed-i" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarajhossen&" alt="sarfarajhossen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarfarajsayed-i&" alt="Sarfarajsayed-i" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Sarfarajhossen)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Sarfarajsayed-i)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sarfarajhossen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sarfarajsayed-i)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Sarfarajhossen&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Sarfarajsayed-i&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Sarfarajhossen/contributions?format=svg&private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Sarfarajsayed-i/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Sarfarajhossen)  
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Sarfarajsayed-i)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Sarfarajhossen)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Sarfarajsayed-i)  
 
